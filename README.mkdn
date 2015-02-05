@@ -1,11 +1,11 @@
-Manifest for android-5.0.1_r1
+Manifest for android-5.0.2_r1
 
 repo init -u https://github.com/matt4321/android_manifest.git -b lollipop-ras-mr1
 
-[@rascarlo](https://twitter.com/rascarlo) on Twitter
+[@matt4321](https://twitter.com/MattTurnbull3) on Twitter
 
-[@rascarlo](https://plus.google.com/+CarloDiNuccio/) on G+
+[@matt4321](http://forum.xda-developers.com/member.php?u=4393511) on XDA
 
-flashable builds can be found on http://fitsnugly.euroskank.com/?rom=rastapop
+flashable builds can be found in the XDA thread http://forum.xda-developers.com/showthread.php?t=2487664
 
 <img src="https://raw.github.com/rascarlo/android_manifest/lollipop-ras-mr1/LionOfJudah.png">
