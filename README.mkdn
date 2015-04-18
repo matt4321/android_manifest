@@ -2,7 +2,7 @@ Manifest for android-5.1.0_r5
 
 repo init -u https://github.com/matt4321/android_manifest.git -b lollipop-ras-mr1
 
-[@matt4321](https://twitter.com/MattTurnbull3) on Twitter
+[@mattturnbull3](https://twitter.com/MattTurnbull3) on Twitter
 
 [@matt4321](http://forum.xda-developers.com/member.php?u=4393511) on XDA
 
